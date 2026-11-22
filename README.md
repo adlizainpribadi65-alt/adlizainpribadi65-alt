@@ -88,12 +88,13 @@ const adliZain = {
 
 ---
 
-## 📄 Published Scientific Research
+## 📄 Undergraduate Thesis & Industrial Research
 
 > **"SISTEM PENDUKUNG KEPUTUSAN PENILAIAN KINERJA KARYAWAN BERBASIS AHP-SAW TERINTEGRASI SOP KEDISIPLINAN"**
 > 
-> *Authors: Adli Zain Pribadi\*, Yudi Herdiana, Yusuf Muharam*  
+> *Author: Adli Zain Pribadi (Advised by: Yudi Herdiana, Yusuf Muharam)*  
 > *Affiliation: Program Studi Teknik Informatika, Universitas Bale Bandung (UNIBBA)*  
+> *Case Study: Reegiolla The Shoes (Cimaung, Kab. Bandung)*  
 > *Summary: Eliminates appraisal bias in manufacturing HR workflows through a hybrid Analytic Hierarchy Process (AHP) criteria-weighting matrix and Simple Additive Weighting (SAW) normalization.*
 
 ---
