@@ -107,9 +107,9 @@ const adliZain = {
 
 ## 🎓 Education
 
-- **Universitas Bale Bandung (UNIBBA)** *(2020 – 2024)* — S1 Teknik Informatika (Sarjana Komputer / S.Kom.)
-- **SMA Negeri 1 Banjaran** *(2016 – 2019)* — MIPA (Matematika dan Ilmu Pengetahuan Alam)
-- **SMP Negeri 2 Banjaran** *(2013 – 2016)*
+- **Universitas Bale Bandung (UNIBBA)** *(2022 – 2026)* — S1 Teknik Informatika (Sarjana Komputer / S.Kom.)
+- **SMA Negeri 1 Banjaran** *(2019 – 2022)* — MIPA (Matematika dan Ilmu Pengetahuan Alam)
+- **SMP Negeri 2 Banjaran** *(2016 – 2019)*
 
 ---
 
