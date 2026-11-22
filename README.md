@@ -45,6 +45,7 @@ const adliZain = {
 <div align="center">
 
 ### Languages & Frameworks
+![Go](https://img.shields.io/badge/Go_(Golang)-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -80,9 +81,25 @@ const adliZain = {
 | Project | Category | Key Tech Stack | Demo / Link |
 | :--- | :--- | :--- | :--- |
 | **[Admin MBG (Makan Bergizi Gratis)](https://github.com/adlizainpribadi65-alt/Aplikasi-Admin-MBG)** | Enterprise Workforce | JavaScript, SheetJS, Chart.js, HTML5 | [🌐 Live App](https://adlizainpribadi65-alt.github.io/Aplikasi-Admin-MBG/) |
+| **Smart Analytics Dashboard Enterprise** | Full-Stack Analytics | React.js, Node.js, Express, MongoDB | [⚡ Architecture](https://adlizainpribadi65-alt.github.io/#projects) |
+| **AI Edge Object Detection & Traffic Vision** | Edge AI & Vision | Python, TensorFlow Lite, OpenCV | [⚡ Architecture](https://adlizainpribadi65-alt.github.io/#projects) |
+| **GoRide Microservices Backend** | Distributed Systems | Golang, gRPC, PostgreSQL, Docker | [⚡ Architecture](https://adlizainpribadi65-alt.github.io/#projects) |
 | **[DSS Karyawan AHP-SAW Engine](https://github.com/adlizainpribadi65-alt/spk-karyawan-saw)** | Decision Systems | PHP, MySQL, AHP, SAW Algorithm | [📦 Repository](https://github.com/adlizainpribadi65-alt/spk-karyawan-saw) |
 | **[Ethereum Price Prediction (LSTM)](https://github.com/adlizainpribadi65-alt/ethereum-price-prediction-lstm)** | Deep Learning | Python, TensorFlow, LSTM, Pandas | [📦 Repository](https://github.com/adlizainpribadi65-alt/ethereum-price-prediction-lstm) |
 | **[Bybit RSI Automated Crypto Bot](https://github.com/adlizainpribadi65-alt/bybit-rsi-crypto-bot)** | Algorithmic FinTech | Python, Bybit API V5, WebSockets | [📦 Repository](https://github.com/adlizainpribadi65-alt/bybit-rsi-crypto-bot) |
+
+---
+
+## 💼 Professional Experience & Internships
+
+- 🏢 **Software Engineer Intern — Tech Nusantara** *(May 2024 – August 2024)*
+  - Designed third-party Payment Gateway APIs and engineered **Golang Microservices** for 30% higher modularity.
+  - Optimized PostgreSQL database queries, significantly reducing admin dashboard response latency.
+- 🎓 **Informatics Laboratory Teaching Assistant — Universitas Bale Bandung** *(August 2023 – December 2023)*
+  - Instructed 40+ undergraduate students in **Algorithms & Data Structures (Python / C++)**.
+  - Managed weekly coding assignments and grading workflows using Git & GitHub Classroom.
+- 🚀 **Lead Systems Engineer (Production Projects)** *(2024 – Present)*
+  - Delivered the **Admin MBG** system (10 SheetJS Excel modules) and quantitative crypto automation bots.
 | **[Sistem Presensi Pegawai v2](https://github.com/adlizainpribadi65-alt/sistem-absensi-v2)** | Web Application | JavaScript, Modular UI, Export | [📦 Repository](https://github.com/adlizainpribadi65-alt/sistem-absensi-v2) |
 | **[Portal Seleksi Beasiswa](https://github.com/adlizainpribadi65-alt/portal-beasiswa-app)** | EdTech Platform | PHP, MySQL, Authentication | [📦 Repository](https://github.com/adlizainpribadi65-alt/portal-beasiswa-app) |
 
