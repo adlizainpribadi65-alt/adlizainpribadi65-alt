@@ -113,6 +113,13 @@ const adliZain = {
 
 ---
 
+## 📜 Certifications & Qualifications
+
+- 🏅 **Junior Web Development** — *2026*
+- 🌐 **TOEFL (Test of English as a Foreign Language)** — *2026*
+
+---
+
 ## 📄 Undergraduate Thesis & Industrial Research
 
 > **"SISTEM PENDUKUNG KEPUTUSAN PENILAIAN KINERJA KARYAWAN BERBASIS AHP-SAW TERINTEGRASI SOP KEDISIPLINAN"**
