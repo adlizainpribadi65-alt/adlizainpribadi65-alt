@@ -31,6 +31,16 @@ const adliZain = {
 
 ---
 
+## 🎯 Visi & Misi
+
+> **Visi Saya:**  
+> *"Menjadi pribadi yang profesional dan kompeten, terus belajar, mengembangkan kemampuan, serta memberikan kontribusi positif bagi perusahaan."*
+
+> **Misi Saya:**  
+> *"Meningkatkan kompetensi, menjaga profesionalisme, membangun kerja sama, serta memberikan kontribusi terbaik bagi perusahaan."*
+
+---
+
 ## 🚀 About Me
 
 - 💻 **Software Engineering:** Experienced in building production web applications, administrative suites with automated Excel generation (SheetJS), and resilient microservices.
