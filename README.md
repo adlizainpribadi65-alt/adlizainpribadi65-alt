@@ -114,16 +114,14 @@ const adliZain = {
 
 ---
 
-## 💼 Professional Experience & Internships
+## 💼 Professional Experience & Projects
 
-- 🏢 **Software Engineer Intern — Tech Nusantara** *(May 2024 – August 2024)*
-  - Designed third-party Payment Gateway APIs and engineered **Golang Microservices** for 30% higher modularity.
-  - Optimized PostgreSQL database queries, significantly reducing admin dashboard response latency.
-- 🎓 **Informatics Laboratory Teaching Assistant — Universitas Bale Bandung** *(August 2023 – December 2023)*
-  - Instructed 40+ undergraduate students in **Algorithms & Data Structures (Python / C++)**.
-  - Managed weekly coding assignments and grading workflows using Git & GitHub Classroom.
-- 🚀 **Lead Systems Engineer (Production Projects)** *(2024 – Present)*
-  - Delivered the **Admin MBG** system (10 SheetJS Excel modules) and quantitative crypto automation bots.
+- 🏢 **Reegiolla The Shoes** *(2024 – 2026)*
+  - Creative Design, Inventory Application Development & Employee Performance Decision Support System (SPK AHP-SAW).
+- 🌐 **Jasa Pembuatan Aplikasi (Freelance Developer)** *(2023 – Present)*
+  - Developed full-stack E-Commerce websites, interactive digital wedding invitations, and web/mobile digital greeting apps.
+- 📦 **Sahira Coklat Dubai** *(2023 – 2024)*
+  - Packing Staff — Quality control, packaging handling, and operational order preparation.
 
 ---
 
