@@ -87,6 +87,8 @@ const adliZain = {
 | **[DSS Karyawan AHP-SAW Engine](https://github.com/adlizainpribadi65-alt/spk-karyawan-saw)** | Decision Systems | PHP, MySQL, AHP, SAW Algorithm | [📦 Repository](https://github.com/adlizainpribadi65-alt/spk-karyawan-saw) |
 | **[Ethereum Price Prediction (LSTM)](https://github.com/adlizainpribadi65-alt/ethereum-price-prediction-lstm)** | Deep Learning | Python, TensorFlow, LSTM, Pandas | [📦 Repository](https://github.com/adlizainpribadi65-alt/ethereum-price-prediction-lstm) |
 | **[Bybit RSI Automated Crypto Bot](https://github.com/adlizainpribadi65-alt/bybit-rsi-crypto-bot)** | Algorithmic FinTech | Python, Bybit API V5, WebSockets | [📦 Repository](https://github.com/adlizainpribadi65-alt/bybit-rsi-crypto-bot) |
+| **[Sistem Presensi Pegawai v2](https://github.com/adlizainpribadi65-alt/sistem-absensi-v2)** | Web Application | JavaScript, Modular UI, Export | [📦 Repository](https://github.com/adlizainpribadi65-alt/sistem-absensi-v2) |
+| **[Portal Seleksi Beasiswa](https://github.com/adlizainpribadi65-alt/portal-beasiswa-app)** | EdTech Platform | PHP, MySQL, Authentication | [📦 Repository](https://github.com/adlizainpribadi65-alt/portal-beasiswa-app) |
 
 ---
 
@@ -100,8 +102,14 @@ const adliZain = {
   - Managed weekly coding assignments and grading workflows using Git & GitHub Classroom.
 - 🚀 **Lead Systems Engineer (Production Projects)** *(2024 – Present)*
   - Delivered the **Admin MBG** system (10 SheetJS Excel modules) and quantitative crypto automation bots.
-| **[Sistem Presensi Pegawai v2](https://github.com/adlizainpribadi65-alt/sistem-absensi-v2)** | Web Application | JavaScript, Modular UI, Export | [📦 Repository](https://github.com/adlizainpribadi65-alt/sistem-absensi-v2) |
-| **[Portal Seleksi Beasiswa](https://github.com/adlizainpribadi65-alt/portal-beasiswa-app)** | EdTech Platform | PHP, MySQL, Authentication | [📦 Repository](https://github.com/adlizainpribadi65-alt/portal-beasiswa-app) |
+
+---
+
+## 🎓 Education
+
+- **Universitas Bale Bandung (UNIBBA)** *(2020 – 2024)* — S1 Teknik Informatika (Sarjana Komputer / S.Kom.)
+- **SMA Negeri 1 Banjaran** *(2016 – 2019)* — MIPA (Matematika dan Ilmu Pengetahuan Alam)
+- **SMP Negeri 2 Banjaran** *(2013 – 2016)*
 
 ---
 
