@@ -36,7 +36,7 @@ const adliZain = {
 - 💻 **Software Engineering:** Experienced in building production web applications, administrative suites with automated Excel generation (SheetJS), and resilient microservices.
 - 🧠 **Applied AI & Algorithmic Design:** Trained and deployed deep learning time-series models (LSTM) for asset price forecasting and automated quantitative crypto bots (Bybit RSI).
 - 📊 **Decision Intelligence:** Researched, authored, and implemented multi-criteria decision support systems utilizing Analytic Hierarchy Process (AHP) and Simple Additive Weighting (SAW).
-- 🎓 **Academic Excellence:** Graduated with high honors (**GPA 3.85 / 4.00**) from Universitas Bale Bandung.
+- 🎓 **Academic Foundation:** Computer Science Graduate (S.Kom.) from Universitas Bale Bandung with strong emphasis on real-world software architecture, practical engineering, and decision science.
 
 ---
 
